@@ -7,3 +7,4 @@ venv/share
 venv/
 .vscode/
 app/__pycache__/__init__.cpython-35.pyc
+__pycache__/
