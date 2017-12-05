@@ -1,3 +1,32 @@
 .row{
-    background-color: black;
+    background-color:whitesmoke;
+    height: 300px;
+    color: black;
+}
+.splash-one{
+    background-color: red;
+}
+#delivery{
+    background-color: green;
+    height: 50%;
+    margin-bottom: 15px;
+}
+#contact{
+    background-color: yellow;
+    height: 50%;
+}
+.section-one{
+    background-color: blue;
+}
+.section-two{
+    background-color: blueviolet;
+}
+.section-four{
+    background-color: greenyellow;
+}
+.section-five{
+    background-color: gold;
+}
+.section-six{
+    background-color: violet;
 }
