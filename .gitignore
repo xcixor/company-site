@@ -8,3 +8,5 @@ venv/
 .vscode/
 app/__pycache__/__init__.cpython-35.pyc
 __pycache__/
+tests/__pycache__/__init__.cpython-35.pyc
+tests/__pycache__/test_landingpage.cpython-35.pyc
