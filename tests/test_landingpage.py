@@ -10,3 +10,5 @@ class TestLandingBlueprint(unittest.TestCase):
     def test_sampletest(self):
         """Sample test"""
         self.assertEqual(landing.views.sample_test(400), True)
+
+    
