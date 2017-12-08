@@ -8,8 +8,3 @@ from app.landing import landing
 def index():
     """Presents the home page"""
     return render_template('index.html')
-
-def sample_test(status):
-    """Just a method"""
-    if status == 400:
-        return True
