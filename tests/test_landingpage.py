@@ -21,7 +21,6 @@ class TestLandingBlueprint(unittest.TestCase):
         # sends HTTP GET request to the application on the specified path
         response = self.app.get('/')
         # assert the response data
-        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.status_code, 200, msg="Error rendering page, check jinja log for more info")
         # useful tips on statuses at www.flaskapi.org
-
-    
+        
